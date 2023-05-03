@@ -1,0 +1,8 @@
+C:\Users\Ruperto\source\repos\Meterpreter_Web\Meterpreter_Web\obj\Debug\Meterpreter_Web.csproj.AssemblyReference.cache
+C:\Users\Ruperto\source\repos\Meterpreter_Web\Meterpreter_Web\obj\Debug\Meterpreter_Web.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ruperto\source\repos\Meterpreter_Web\Meterpreter_Web\obj\Debug\Meterpreter_Web.csproj.CoreCompileInputs.cache
+C:\Users\Ruperto\source\repos\Meterpreter_Web\Meterpreter_Web\bin\Debug\Meterpreter_Web.exe.config
+C:\Users\Ruperto\source\repos\Meterpreter_Web\Meterpreter_Web\bin\Debug\Meterpreter_Web.exe
+C:\Users\Ruperto\source\repos\Meterpreter_Web\Meterpreter_Web\bin\Debug\Meterpreter_Web.pdb
+C:\Users\Ruperto\source\repos\Meterpreter_Web\Meterpreter_Web\obj\Debug\Meterpreter_Web.exe
+C:\Users\Ruperto\source\repos\Meterpreter_Web\Meterpreter_Web\obj\Debug\Meterpreter_Web.pdb
