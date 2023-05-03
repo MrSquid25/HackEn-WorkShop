@@ -1,8 +1,0 @@
-C:\Users\Ruperto\source\repos\MessageBox\MessageBox\bin\Debug\MessageBox.exe.config
-C:\Users\Ruperto\source\repos\MessageBox\MessageBox\bin\Debug\MessageBox.exe
-C:\Users\Ruperto\source\repos\MessageBox\MessageBox\bin\Debug\MessageBox.pdb
-C:\Users\Ruperto\source\repos\MessageBox\MessageBox\obj\Debug\MessageBox.csproj.AssemblyReference.cache
-C:\Users\Ruperto\source\repos\MessageBox\MessageBox\obj\Debug\MessageBox.csproj.SuggestedBindingRedirects.cache
-C:\Users\Ruperto\source\repos\MessageBox\MessageBox\obj\Debug\MessageBox.csproj.CoreCompileInputs.cache
-C:\Users\Ruperto\source\repos\MessageBox\MessageBox\obj\Debug\MessageBox.exe
-C:\Users\Ruperto\source\repos\MessageBox\MessageBox\obj\Debug\MessageBox.pdb
