@@ -1,0 +1,16 @@
+Renamed Types:
+
+[Hello_World]Hello_World.Program -> [Hello_World]A.A
+{
+	[Hello_World]Hello_World.Program::Main[1]( [mscorlib]System.String[] ) -> A
+
+	[Hello_World]Hello_World.Program::.ctor[0]( ) skipped:  special name
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+
+Skipped Resources:
+

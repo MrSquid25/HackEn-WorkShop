@@ -1,0 +1,15 @@
+C:\Users\Ruperto\source\repos\Datos\Datos\obj\Debug\net7.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Ruperto\source\repos\Datos\Datos\obj\Debug\net7.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruperto\source\repos\Datos\Datos\obj\Debug\net7.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Ruperto\source\repos\Datos\Datos\obj\Debug\net7.0\Datos.AssemblyInfo.cs
+C:\Users\Ruperto\source\repos\Datos\Datos\obj\Debug\net7.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Ruperto\source\repos\Datos\Datos\bin\Debug\net7.0\Datos.exe
+C:\Users\Ruperto\source\repos\Datos\Datos\bin\Debug\net7.0\Datos.deps.json
+C:\Users\Ruperto\source\repos\Datos\Datos\bin\Debug\net7.0\Datos.runtimeconfig.json
+C:\Users\Ruperto\source\repos\Datos\Datos\bin\Debug\net7.0\Datos.dll
+C:\Users\Ruperto\source\repos\Datos\Datos\bin\Debug\net7.0\Datos.pdb
+C:\Users\Ruperto\source\repos\Datos\Datos\obj\Debug\net7.0\Datos.dll
+C:\Users\Ruperto\source\repos\Datos\Datos\obj\Debug\net7.0\refint\Datos.dll
+C:\Users\Ruperto\source\repos\Datos\Datos\obj\Debug\net7.0\Datos.pdb
+C:\Users\Ruperto\source\repos\Datos\Datos\obj\Debug\net7.0\Datos.genruntimeconfig.cache
+C:\Users\Ruperto\source\repos\Datos\Datos\obj\Debug\net7.0\ref\Datos.dll

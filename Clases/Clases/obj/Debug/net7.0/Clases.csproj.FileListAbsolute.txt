@@ -1,0 +1,15 @@
+C:\Users\Ruperto\source\repos\Clases\Clases\obj\Debug\net7.0\Clases.csproj.AssemblyReference.cache
+C:\Users\Ruperto\source\repos\Clases\Clases\obj\Debug\net7.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruperto\source\repos\Clases\Clases\obj\Debug\net7.0\Clases.AssemblyInfoInputs.cache
+C:\Users\Ruperto\source\repos\Clases\Clases\obj\Debug\net7.0\Clases.AssemblyInfo.cs
+C:\Users\Ruperto\source\repos\Clases\Clases\obj\Debug\net7.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Ruperto\source\repos\Clases\Clases\bin\Debug\net7.0\Clases.exe
+C:\Users\Ruperto\source\repos\Clases\Clases\bin\Debug\net7.0\Clases.deps.json
+C:\Users\Ruperto\source\repos\Clases\Clases\bin\Debug\net7.0\Clases.runtimeconfig.json
+C:\Users\Ruperto\source\repos\Clases\Clases\bin\Debug\net7.0\Clases.dll
+C:\Users\Ruperto\source\repos\Clases\Clases\bin\Debug\net7.0\Clases.pdb
+C:\Users\Ruperto\source\repos\Clases\Clases\obj\Debug\net7.0\Clases.dll
+C:\Users\Ruperto\source\repos\Clases\Clases\obj\Debug\net7.0\refint\Clases.dll
+C:\Users\Ruperto\source\repos\Clases\Clases\obj\Debug\net7.0\Clases.pdb
+C:\Users\Ruperto\source\repos\Clases\Clases\obj\Debug\net7.0\Clases.genruntimeconfig.cache
+C:\Users\Ruperto\source\repos\Clases\Clases\obj\Debug\net7.0\ref\Clases.dll
